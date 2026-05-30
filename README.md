@@ -1,7 +1,7 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No: 212224100004
-# Name: AKASH G
+# Reg No: 212223040217
+# Name: Sushiendar M
 
 
 
